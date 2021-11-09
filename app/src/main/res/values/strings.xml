@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translate Application</string>
+    <string name="connection_fail">İnternet Bağlantınız Bulunamadı, Lütfen Bağlantınızı Kontrol ediniz</string>
+    <string name="translate">Translate</string>
+    <string name="translate_edittext_hint">Lütfen kelime girişi yapınız</string>
+    <string name="hangi_dil">Hangi dile çeviri yapılacak:</string>
+    <string name="hangi_dilden">Hangi dilden çeviri yapılacak:</string>
+</resources>
